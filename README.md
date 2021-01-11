@@ -4,9 +4,9 @@
 If you want to join our club, follow the [Onboarding Document](Onboarding%20Doc.pdf)
 
 Presentation Slides:   
-[Introduction](Slides/Meeting%2001%20Slides.pdf)  
-[Python Fundamentals](Slides/Meeting%2002%20Slides.pdf)
+[Introduction](./Presentations/Meeting%01%Slides.pdf)  
 
-Examples:   
-[Hello World](Notebook/HelloWorld.ipynb)   
-[GDP Plot](Notebook/GDP.ipynb)
+Projects:   
+
+
+Created and maintained by Rajas Gupta and Vijay Sharma
